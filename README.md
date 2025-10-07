@@ -1,6 +1,6 @@
 # Code Documentation & Test Case Generator
 
-An **AI-powered automation tool** that scans your source code and generates high-quality documentation and test cases — saving hours of manual work.
+An **AI-powered automation tool** that scans your source code and generates high-quality documentation and test cases - saving hours of manual work.
 
 ---
 
