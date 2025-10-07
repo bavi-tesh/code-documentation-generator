@@ -1,0 +1,59 @@
+**Test Case 1:**
+
+* Array: [5, 2, 8, 1, 9]
+* Target: 8
+* Expected Output: 2
+
+**Test Case 2:**
+
+* Array: [1, 2, 3, 4, 5]
+* Target: 6
+* Expected Output: -1
+
+**Test Case 3:**
+
+* Array: [10, 20, 30, 40, 50]
+* Target: 30
+* Expected Output: 2
+
+**Test Case 4:**
+
+* Array: [0, 1, 2, 3, 4]
+* Target: 0
+* Expected Output: 0
+
+**Test Case 5:**
+
+* Array: []
+* Target: 5
+* Expected Output: -1
+
+**Test Case 6:**
+
+* Array: [1, 2, 3]
+* Target: 3
+* Expected Output: 2
+
+**Test Case 7:**
+
+* Array: [1, 2, 3]
+* Target: 4
+* Expected Output: -1
+
+**Test Case 8:**
+
+* Array: [1]
+* Target: 1
+* Expected Output: 0
+
+**Test Case 9:**
+
+* Array: [1, 1]
+* Target: 1
+* Expected Output: 0
+
+**Test Case 10:**
+
+* Array: [1, 2, 3, 4, 5]
+* Target: 5
+* Expected Output: 4
