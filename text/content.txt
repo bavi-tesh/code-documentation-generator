@@ -1,0 +1,27 @@
+**Documentation:**
+
+* **Function Name:** `linear_search`
+* **Arguments:**
+    * `arr`: The unsorted array.
+    * `target`: The value to search for.
+* **Return Value:**
+    * The index of the target value if found, or -1 if not found.
+* **Time Complexity:** O(n), where n is the length of the array.
+* **Space Complexity:** O(1)
+
+**Example Usage:**
+
+```python
+arr = [5, 2, 8, 1, 9]
+target = 8
+
+index = linear_search(arr, target)
+
+print(index)  # Output: 2
+```
+
+**Note:**
+
+* The linear search algorithm is simple and efficient for small arrays.
+* For large arrays, more efficient algorithms such as binary search should be used.
+* The time complexity of the linear search algorithm is O(n), which means that the time taken to search for an element in the array is proportional to the length of the array.
