@@ -139,6 +139,3 @@ def test_add():
 GitHub: [@bavi-tesh](https://github.com/bavi-tesh)  
 Reach out for feedback, ideas, or collaborations!
 
----
-
-> ⚡ *"Automate your documentation — focus on innovation, not repetition."*
